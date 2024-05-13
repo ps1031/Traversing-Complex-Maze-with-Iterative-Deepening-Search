@@ -1,1 +1,2 @@
 # Traversing-Complex-Maze-with-Iterative-Deepening-Search
+Iterative Deepening Search (IDS) is a game-changer in maze-solving, progressively exploring deeper levels while ensuring completeness. With IDS, users effortlessly navigate through complex mazes, empowered by its dynamic approach. This algorithm streamlines the process, making maze navigation straightforward and allowing users to conquer challenges confidently. IDS revolutionizes maze-solving, offering users an efficient and effective method to tackle intricate pathways and obstacles.
